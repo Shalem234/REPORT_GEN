@@ -1,1 +1,15 @@
 # REPORT_GEN
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : SESHAM SHALEM RAJ
+
+**INTERN ID** : CT6WDPJ
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (6)](https://github.com/user-attachments/assets/fa63f597-eeb1-422a-95cf-8c1909975a88)
